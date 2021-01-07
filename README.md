@@ -1,6 +1,7 @@
 # pythonDemo
 
-Python Self Learning
-Python Unit test using Python inbuild unittest Module
+1) Python Self Learning.
 
-*Example of unittest code with employee class.
+2) Python Unit test using Python inbuild unittest Module
+
+*Example of unittest code with employee class.*
